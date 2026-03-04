@@ -1,0 +1,5 @@
+MD TOTP
+Time-based one-time password (TOTP) generator.
+
+MD TOTP is provided "as is", with absolutely no warranty expressed or implied. 
+Any use is at your own risk. Author not responsible for any damage or lost data.
